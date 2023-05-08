@@ -1,0 +1,27 @@
+/* Add your custom CSS styles here */
+
+/* Example */
+#landing {
+    background-color: #f8f9fa;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#projects {
+    /* Add custom styles for the projects section */
+}
+
+#blog {
+    /* Add custom styles for the blog section */
+}
+
+#about {
+    /* Add custom styles for the about section */
+}
+
+#contact {
+    /* Add custom styles for the contact section */
+}
+
